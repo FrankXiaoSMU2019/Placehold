@@ -1,6 +1,6 @@
 # VR Automated Emergency Response
 
-Our team tackle the challenge of integrating smart city development of Singapore with crucial and swift resposne to emergency situations such as fire, flooding, traffic accidents, collapse of building and other incidents.
+Our team tackle the challenge of integrating smart city development of Singapore with crucial and swift resposne to emergency situations such as fire, flooding, traffic accidents, collapse of building and other incidents, using IBM Watson Visual Recognition (VR), we seek to develop an automated and timely response to incidents.
 
 ## Contents
 
@@ -26,7 +26,7 @@ Infrastructure is getting “smart”, with sensors and Internet of things (IoT)
 
 ### How can technology help?
 
-Machine Learning such as IBM Watson Visual Recognition can be trained to detect incidents as they happen in real time, and, once detected, can send automated warning to emergency response. This can reduce delay between the incident happening and the response to that incident, leading to early intervention measures.
+Machine Learning such as IBM Watson Visual Recognition can be trained to detect incidents as they happen in real time via feed from CCTV cameras, and, once detected, can send automated warning to emergency response. This can reduce delay between the incident happening and the response to that incident, leading to early intervention measures.
 
 ### The idea
 
@@ -51,61 +51,33 @@ Security cameras, NEA thermal cameras, traffic camera and other cameras in the s
 
 ## Getting started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Follow this step-by-step instruction to see a demo of the VR Automated Emergency Response on your local machine.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Install [Node.js](https://nodejs.org/en/download/), [Object Detection Live Stream](https://github.com/cloud-annotations/object-detection-live-stream).
 
-```bash
-dnf install wget
-wget http://www.example.com/install.sh
-bash install.sh
+### Downloadable Files
+
+Google Links Here.
+
+Copy and Paste the file in the following directory:
+
+```C:\Users\(Your username)\object-detection-live-stream\public
 ```
 
-### Installing
+Run it with...
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be, for example
-
-```bash
-export TOKEN="fffd0923aa667c617a62f5A_fake_token754a2ad06cc9903543f1e85"
-export EMAIL="jane@example.com"
-dnf install npm
-node samplefile.js
-Server running at http://127.0.0.1:3000/
-```
-
-And repeat
-
-```bash
-curl localhost:3000
-Thanks for looking at Code-and-Response!
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+etc. etc.
 
 ## Built with
 
-* [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
-* [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
-* [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+* [IBM Watson Machine Learning](https://www.ibm.com/sg-en/cloud/machine-learning#:~:text=Deploy%20and%20run%20AI%20models,at%20scale%20across%20any%20cloud.) - For object detection in image
+* [Node.js](https://nodejs.org/en/) - Server Environment
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Adeel Kasban** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of [contributors](https://github.com/Code-and-Response/Project-Sample/graphs/contributors) who participated in this project.
 
