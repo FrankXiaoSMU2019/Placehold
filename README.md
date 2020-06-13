@@ -1,4 +1,4 @@
-# Submission name
+# VR Automated Emergency Response
 
 Our team tackle the challenge of integrating smart city development of Singapore with crucial and swift resposne to emergency situations such as fire, flooding, traffic accidents, collapse of building and other incidents.
 
@@ -23,15 +23,17 @@ Our team tackle the challenge of integrating smart city development of Singapore
 
 ### What's the problem?
 
-Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. As a result, schools in most affected areas are taking precautionary measures by closing their facilities. With school-aged children at home for an indeterminate amount of time,  keeping them engaged, entertained, and on top of their education is important.
+#### INTEGRATING WITH A SMART ENVIRONMENT
+
+Infrastructure is getting “smart”, with sensors and Internet of things (IoT) increasingly embedded in the built environment (e.g. Punggol Digital District). How might we leverage a network of smart infrastructure in the built environment to make better and more timely sense of emergency incidents (e.g. detection of fires developing, building collapses, falls, road traffic accidents etc.) and to trigger early intervention measures, without the need to activate precious emergency resources?
 
 ### How can technology help?
 
-Schools and teachers can continue to engage with their students through virtual classrooms, and even create interactive spaces for classes. As parents face a new situation where they may need to homeschool their children, finding appropriate online resources is important as well.
+Machine Learning such as IBM Watson Visual Recognition can be trained to detect incidents as they happen in real time, and, once detected, can send automated warning to emergency response. This can reduce delay between the incident happening and the response to that incident, leading to early intervention measures.
 
 ### The idea
 
-It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
+Security cameras, NEA thermal cameras, traffic camera and other cameras in the streets of Singapore can have their feed streamed to the machine learning software trained to detect incidents or any precursors to incidents. Once such an instance is detected, a warning will be sent to the watchroom, along with the image of the camera feed to check the scale and nature of the incident, or to check if it's a false positive.
 
 ## Demo video
 
@@ -39,20 +41,16 @@ It's imperative that learning and creating can continue when educational institu
 
 ## The architecture
 
-![Video transcription/translation app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
+![Video transcription/translation app](https://i.imgur.com/LAp5XWB.jpg)
 
-1. The user navigates to the site and uploads a video file.
-2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
+1. Security/thermal/traffic camera has feed sent to software.
+2. Software with IBM Watson image recognition constantly analyses feed, triggers when an incident is detected.
+3. When incident is detected, warning is sent to the watchroom of emergency response, along with feed and location of camera.
+4. If the watchroom determines that it's not a false positive, emergency response is sent out.
 
 ## Long description
 
 [More detail is available here](DESCRIPTION.md)
-
-## Project roadmap
-
-![Roadmap](roadmap.jpg)
 
 ## Getting started
 
@@ -90,34 +88,6 @@ Thanks for looking at Code-and-Response!
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why, if you were using something like `mocha` for instnance
-
-```bash
-npm install mocha --save-dev
-vi test/test.js
-./node_modules/mocha/bin/mocha
-```
-
-### And coding style tests
-
-Explain what these tests test and why, if you chose `eslint` for example
-
-```bash
-npm install eslint --save-dev
-npx eslint --init
-npx eslint sample-file.js
-```
-
-## Live demo
-
-You can find a running system to test at [callforcode.mybluemix.net](http://callforcode.mybluemix.net/)
 
 ## Built with
 
