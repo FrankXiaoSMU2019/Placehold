@@ -33,7 +33,7 @@ Security cameras, NEA thermal cameras, traffic camera and other cameras in the s
 
 ## Demo video
 
-[![Watch the video](https://i.imgur.com/95P63Uw.jpg)](https://youtu.be/dlCPb-Vk0Vw)
+[![Watch the video](https://www.gannett-cdn.com/-mm-/09608943aa25adf525e933716a119392e8625fb6/c=0-22-773-459/local/-/media/2016/10/22/USATODAY/USATODAY/636127417691080617-YouTube-logo-full-color.png?width=660&height=374&fit=crop&format=pjpg&auto=webp)](https://youtu.be/dlCPb-Vk0Vw)
 
 ## The architecture
 
