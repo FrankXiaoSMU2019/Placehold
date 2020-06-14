@@ -12,7 +12,6 @@ Our team tackle the challenge of integrating smart city development of Singapore
 1. [Built with](#built-with)
 1. [Contributing](#contributing)
 1. [Authors](#authors)
-1. [License](#license)
 1. [Acknowledgments](#acknowledgments)
 
 ## Short description
@@ -76,13 +75,10 @@ etc. etc.
 
 ## Authors
 
-* **Adeel Kasban** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Adeel Kasban** - *Developer*
+* **Frank Xiao** - *Coordinator*
 
 See also the list of [contributors](https://github.com/Code-and-Response/Project-Sample/graphs/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 
