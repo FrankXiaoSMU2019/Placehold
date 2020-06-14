@@ -68,6 +68,7 @@ Install [Node.js](https://nodejs.org/en/download/), [Object Detection Live Strea
 C:\Users\(Your username)\object-detection-live-stream\public
 ```
 (If you cannot find that folder, please install Object Detection Live Stream Correctly)
+
 3. Open git Bash, input the following:
 ```
 cd object-detection-live-stream
