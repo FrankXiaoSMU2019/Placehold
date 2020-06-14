@@ -1,6 +1,6 @@
 # VR Automated Emergency Response
 
-Our team tackle the challenge of integrating smart city development of Singapore with crucial and swift resposne to emergency situations such as fire, flooding, traffic accidents, collapse of building and other incidents, using IBM Watson Visual Recognition (VR), we seek to develop an automated and timely response to incidents.
+Our team tackle the challenge of integrating smart city development of Singapore with crucial and swift resposne to emergency situations such as fire, flooding, traffic accidents, collapse of building and other incidents, using IBM Watson Visual Recognition, we seek to develop an automated and timely response to incidents.
 
 ## Contents
 
