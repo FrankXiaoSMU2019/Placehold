@@ -11,7 +11,6 @@ Our team tackle the challenge of integrating smart city development of Singapore
 1. [Live Demo](#live-demo)
 1. [Getting started](#getting-started)
 1. [Built with](#built-with)
-1. [Contributing](#contributing)
 1. [Authors](#authors)
 1. [Acknowledgments](#acknowledgments)
 
@@ -54,25 +53,29 @@ A live demo of the VRAER can be found [here](https://adeelkasban.com/object-dete
 
 ## Getting started
 
-Follow this step-by-step instruction to see a demo of VRAER on your local machine.
+Follow these instructions to see a demo of VRAER on your local machine.
 
 ### Prerequisites
 
 Install [Node.js](https://nodejs.org/en/download/), [Object Detection Live Stream](https://github.com/cloud-annotations/object-detection-live-stream).
 
-### Downloadable Files
+### Step-by-Step
 
-Google Links Here.
-
-Copy and Paste the file in the following directory:
+1. Download this repository to your local machine with Node.js and Object Detection Live Stream installed.
+2. Copy the 'Public' Folder of this repository to the following folder:
 
 ```
 C:\Users\(Your username)\object-detection-live-stream\public
 ```
+(If you cannot find that folder, please install Object Detection Live Stream Correctly)
+3. Open git Bash, input the following:
+```
+cd object-detection-live-stream
+npm install
+npm start
+```
+4. Enter https://localhost:3000/ to see the live demo.
 
-Run it with...
-
-etc. etc.
 
 ## Built with
 
