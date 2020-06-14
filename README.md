@@ -1,4 +1,4 @@
-# VR Automated Emergency Response
+# Visual Response Automated Emergency Response
 
 Our team tackle the challenge of integrating smart city development of Singapore with crucial and swift resposne to emergency situations such as fire, flooding, traffic accidents, collapse of building and other incidents, using IBM Watson Visual Recognition, we seek to develop an automated and timely response to incidents.
 
@@ -50,11 +50,11 @@ Security cameras, NEA thermal cameras, traffic camera and other cameras in the s
 
 ## Live Demo
 
-A live demo of the prototype dashboard and Image Recognition can be found [here](https://adeelkasban.com/object-detection-live-stream-master/public/index1.html).
+A live demo of the VRAER can be found [here](https://adeelkasban.com/object-detection-live-stream-master/public/index1.html).
 
 ## Getting started
 
-Follow this step-by-step instruction to see a demo of the VR Automated Emergency Response on your local machine.
+Follow this step-by-step instruction to see a demo of VRAER on your local machine.
 
 ### Prerequisites
 
