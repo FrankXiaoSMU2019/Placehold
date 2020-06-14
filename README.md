@@ -33,7 +33,7 @@ Security cameras, NEA thermal cameras, traffic camera and other cameras in the s
 
 ## Demo video
 
-[![Watch the video](https://github.com/Code-and-Response/Liquid-Prep/blob/master/images/IBM-interview-video-image.png)](https://youtu.be/dlCPb-Vk0Vw)
+[![Watch the video](https://i.imgur.com/95P63Uw.jpg)](https://youtu.be/dlCPb-Vk0Vw)
 
 ## The architecture
 
