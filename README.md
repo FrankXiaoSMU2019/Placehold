@@ -11,7 +11,6 @@ Our team tackle the challenge of integrating smart city development of Singapore
 1. [Getting started](#getting-started)
 1. [Built with](#built-with)
 1. [Contributing](#contributing)
-1. [Versioning](#versioning)
 1. [Authors](#authors)
 1. [License](#license)
 1. [Acknowledgments](#acknowledgments)
@@ -47,7 +46,7 @@ Security cameras, NEA thermal cameras, traffic camera and other cameras in the s
 
 ## Long description
 
-[More detail is available here](DESCRIPTION.md)
+[More detail is available here](https://docs.google.com/document/d/1Y2ukJS6jOG4IpRZO1rw1oKrt8JWLKsi05gerZBZqgOA/edit?usp=sharing)
 
 ## Getting started
 
