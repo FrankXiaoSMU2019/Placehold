@@ -45,7 +45,7 @@ Security cameras, NEA thermal cameras, traffic camera and other cameras in the s
 
 ## Long description
 
-[More detail is available here](https://docs.google.com/document/d/1Y2ukJS6jOG4IpRZO1rw1oKrt8JWLKsi05gerZBZqgOA/edit?usp=sharing)
+[More detail is available here](https://drive.google.com/file/d/1RsWL1UDfq9W9GvgHDEAoCm1zQr_UQJAU/view?usp=sharing)
 
 ## Live Demo
 
