@@ -61,7 +61,8 @@ Google Links Here.
 
 Copy and Paste the file in the following directory:
 
-```C:\Users\(Your username)\object-detection-live-stream\public
+```
+C:\Users\(Your username)\object-detection-live-stream\public
 ```
 
 Run it with...
