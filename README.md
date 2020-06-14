@@ -28,7 +28,7 @@ Machine Learning such as IBM Watson Visual Recognition can be trained to detect 
 
 ### The idea
 
-Security cameras, NEA thermal cameras, traffic camera and other cameras in the streets of Singapore can have their feed streamed to the machine learning software trained to detect incidents or any precursors to incidents. Once such an instance is detected, a warning will be sent to the watchroom, along with the image of the camera feed to check the scale and nature of the incident, or to check if it's a false positive.
+Security cameras, NEA thermal cameras, traffic camera and other cameras in the streets of Singapore can have their feed streamed to the machine learning software trained to detect incidents or any precursors to incidents. Live feed and data from traffic cameras and other cameras is already available publicly such as on [LTA Datamall](https://www.mytransport.sg/content/mytransport/home/dataMall.html). With feeds from cameras across Singapore, we can provide a wide coverage of any instances of incidents occurring. Once an instance is detected, a warning will be sent to the watchroom, along with the image of the camera feed to check the scale and nature of the incident, or to check if it's a false positive.
 
 ## Demo video
 
