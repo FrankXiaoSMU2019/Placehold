@@ -78,8 +78,6 @@ etc. etc.
 * **Adeel Kasban** - *Developer*
 * **Frank Xiao** - *Coordinator*
 
-See also the list of [contributors](https://github.com/Code-and-Response/Project-Sample/graphs/contributors) who participated in this project.
-
 ## Acknowledgments
 
 * Based on [Billie Thompson's README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
