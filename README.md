@@ -8,6 +8,7 @@ Our team tackle the challenge of integrating smart city development of Singapore
 1. [Demo video](#demo-video)
 1. [The architecture](#the-architecture)
 1. [Long description](#long-description)
+1. [Live Demo](#live-demo)
 1. [Getting started](#getting-started)
 1. [Built with](#built-with)
 1. [Contributing](#contributing)
@@ -46,6 +47,10 @@ Security cameras, NEA thermal cameras, traffic camera and other cameras in the s
 ## Long description
 
 [More detail is available here](https://docs.google.com/document/d/1Y2ukJS6jOG4IpRZO1rw1oKrt8JWLKsi05gerZBZqgOA/edit?usp=sharing)
+
+## Live Demo
+
+A live demo of the prototype dashboard and Image Recognition can be found [here](https://adeelkasban.com/object-detection-live-stream-master/public/index1.html).
 
 ## Getting started
 
